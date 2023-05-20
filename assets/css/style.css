@@ -194,7 +194,9 @@ img {
 #contact input.form-control {
     height: 44px;
 }
-
+.iframe{
+    max-width: fit-content;
+}
 
 .social-icons a {
     width: 40px;
